@@ -1,0 +1,4 @@
+x64/
+Celestia
+*.vcxproj.user
+.vs
